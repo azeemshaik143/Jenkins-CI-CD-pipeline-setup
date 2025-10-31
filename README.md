@@ -3,7 +3,7 @@
 This guide walks through installing **Jenkins**, creating jobs, connecting them into a **manual pipeline**, and then **automating** the entire CI/CD workflow using **GitHub webhooks**.
 
 
-## 🧩 Introduction
+## 🧩 Introduction.
 
 **Jenkins** is an open-source automation server that helps implement **Continuous Integration (CI)** and **Continuous Deployment (CD)** for software projects.
 
@@ -414,7 +414,7 @@ In **clone-job → Configure → Build Triggers**
 
 ---
 
-### 🔹 Configure Webhook in GitHub
+### 🔹 Configure Webhook in GitHub.
 
 1. Go to your **GitHub Repository → Settings → Webhooks**
 2. Click **Add Webhook**
