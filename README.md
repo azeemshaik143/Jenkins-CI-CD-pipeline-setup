@@ -434,7 +434,7 @@ In **clone-job → Configure → Build Triggers**
 
 ---
 
-### 🔹 Test the Automation
+### 🔹 Test the Automation.
 
 * Make a small change in the repository (e.g., update version in `pom.xml`)
 * Commit and push the change
